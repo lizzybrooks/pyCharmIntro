@@ -7,3 +7,4 @@ def shuffle_word(word):
 
 new = shuffle_word("lizzy brooks")
 print(new)
+print("hey, does this work? ")
